@@ -1,7 +1,7 @@
 # GPA Calculator using C++
 This repository contain two files one contains GPA Calculator withot OOP and the other one contain the same GPA calculator implemented using Class (OOP) approach.
 To use the class based file in your project
-### Steps:
+### Steps for using class based calculator:
 - Copy the code from the file
 - Past it into the file and save it as GPACalculator.h in your working directory
 - Create a new *.cpp file in your working directory
